@@ -1,0 +1,49 @@
+2019-07-02 08:47:57,197 - root - ERROR - HTTPConnectionPool(host='192.168.31.110', port=5000): Max retries exceeded with url: /icsend (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x08463770>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-07-02 08:48:52,597 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-02 08:53:03,796 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-02 08:56:22,753 - root - ERROR - invalid literal for int() with base 10: "'ruidu.thsen.top'"
+2019-07-02 09:00:03,714 - root - ERROR - 'ConfigParser' object has no attribute 'getstr'
+2019-07-02 09:00:25,521 - root - ERROR - Connection to the database failed for an unknown reason.
+2019-07-02 09:02:12,534 - root - ERROR - Connection to the database failed for an unknown reason.
+2019-07-02 09:02:43,869 - root - ERROR - HTTPConnectionPool(host='192.168.31.110', port=5000): Max retries exceeded with url: /icsend (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x080D5830>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-07-02 09:04:16,694 - root - ERROR - HTTPConnectionPool(host='192.168.31.110', port=5000): Max retries exceeded with url: /icsend (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x08695870>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-07-02 09:10:38,852 - root - ERROR - HTTPConnectionPool(host='192.168.31.110', port=5000): Max retries exceeded with url: /icsend (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x08165190>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-07-02 09:11:00,391 - root - ERROR - HTTPConnectionPool(host='192.168.31.110', port=5000): Max retries exceeded with url: /icsend (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03703890>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-07-02 09:31:47,393 - root - INFO - 服务器反馈提交成功1130记录
+2019-07-02 09:39:09,093 - root - INFO - 服务器反馈提交成功1134记录
+2019-07-02 10:37:10,170 - root - INFO - 服务器反馈提交成功1151记录
+2019-07-02 10:44:12,587 - root - ERROR - (1205, b'Transaction (Process ID 84) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:17,658 - root - ERROR - 语句(1205, b'Transaction (Process ID 73) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:17,658 - root - ERROR - 语句(1205, b'Transaction (Process ID 73) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:17,659 - root - ERROR - (1205, b'Transaction (Process ID 73) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:17,659 - root - ERROR - (1205, b'Transaction (Process ID 73) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:17,659 - root - ERROR - (1205, b'Transaction (Process ID 73) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:20,124 - root - ERROR - (1205, b'Transaction (Process ID 85) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:20,124 - root - ERROR - (1205, b'Transaction (Process ID 85) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:20,124 - root - ERROR - (1205, b'Transaction (Process ID 85) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:20,124 - root - ERROR - (1205, b'Transaction (Process ID 85) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:21,423 - root - ERROR - (1205, b'Transaction (Process ID 86) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:21,423 - root - ERROR - (1205, b'Transaction (Process ID 86) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:21,423 - root - ERROR - (1205, b'Transaction (Process ID 86) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:21,423 - root - ERROR - (1205, b'Transaction (Process ID 86) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:44:21,423 - root - ERROR - (1205, b'Transaction (Process ID 86) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.DB-Lib error message 20018, severity 13:\nGeneral SQL Server error: Check messages from the SQL Server\n')
+2019-07-02 10:46:28,089 - root - INFO - 服务器反馈提交成功1155记录
+2019-07-02 10:46:33,148 - root - INFO - 服务器反馈提交成功1156记录
+2019-07-02 10:46:33,148 - root - INFO - 服务器反馈提交成功1156记录
+2019-07-02 10:54:22,399 - root - INFO - 服务器反馈提交成功1157记录
+2019-07-02 10:54:33,078 - root - INFO - 服务器反馈提交成功1157记录
+2019-07-02 10:54:33,078 - root - INFO - 服务器反馈提交成功1157记录
+2019-07-02 12:52:59,033 - root - INFO - 服务器反馈提交成功1162记录
+2019-07-02 12:53:50,048 - root - INFO - 服务器反馈提交成功1162记录
+2019-07-02 12:53:50,048 - root - INFO - 服务器反馈提交成功1162记录
+2019-07-02 12:55:25,648 - root - INFO - 服务器反馈提交成功1162记录
+2019-07-02 12:57:10,494 - root - INFO - 服务器反馈提交成功1163记录
+2019-07-02 12:59:46,487 - root - INFO - 服务器反馈提交成功1163记录
+2019-07-02 13:00:59,502 - root - INFO - 服务器反馈提交成功1163记录
+2019-07-02 13:04:05,854 - root - ERROR - can only concatenate str (not "datetime.datetime") to str
+2019-07-02 14:06:02,657 - root - INFO - 服务器反馈提交成功388记录
+2019-07-02 14:08:11,629 - root - INFO - 服务器反馈提交成功388记录
+2019-07-02 14:08:42,528 - root - INFO - 服务器反馈提交成功388记录
+2019-07-02 14:08:42,528 - root - INFO - 服务器反馈提交成功388记录
+2019-07-02 14:11:05,796 - root - INFO - 服务器反馈提交成功388记录
+2019-07-02 14:38:39,909 - root - INFO - 服务器反馈提交成功389记录

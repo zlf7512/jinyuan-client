@@ -1,0 +1,81 @@
+2019-07-01 12:58:05,481 - root - INFO - 执行成功
+2019-07-01 14:06:02,753 - root - INFO - 执行成功
+2019-07-01 14:06:02,753 - root - INFO - 执行成功
+2019-07-01 14:10:34,112 - root - INFO - 执行成功
+2019-07-01 14:10:34,112 - root - INFO - 执行成功
+2019-07-01 14:10:34,112 - root - INFO - 执行成功
+2019-07-01 14:16:23,993 - root - INFO - 执行成功
+2019-07-01 14:19:49,450 - root - INFO - 执行成功
+2019-07-01 14:19:49,450 - root - INFO - 执行成功
+2019-07-01 14:21:46,455 - root - INFO - 执行成功
+2019-07-01 14:21:46,455 - root - INFO - 执行成功
+2019-07-01 14:21:46,455 - root - INFO - 执行成功
+2019-07-01 14:26:08,872 - root - INFO - 执行成功
+2019-07-01 14:26:08,872 - root - INFO - 执行成功
+2019-07-01 14:26:08,872 - root - INFO - 执行成功
+2019-07-01 14:26:08,872 - root - INFO - 执行成功
+2019-07-01 14:34:42,277 - root - INFO - 执行成功
+2019-07-01 14:34:42,277 - root - INFO - 执行成功
+2019-07-01 14:34:42,277 - root - INFO - 执行成功
+2019-07-01 14:34:42,277 - root - INFO - 执行成功
+2019-07-01 14:34:42,277 - root - INFO - 执行成功
+2019-07-01 14:39:41,572 - root - INFO - 执行成功
+2019-07-01 14:39:41,572 - root - INFO - 执行成功
+2019-07-01 14:39:41,572 - root - INFO - 执行成功
+2019-07-01 14:39:41,572 - root - INFO - 执行成功
+2019-07-01 14:39:41,572 - root - INFO - 执行成功
+2019-07-01 14:39:41,572 - root - INFO - 执行成功
+2019-07-01 14:41:37,598 - root - INFO - 执行成功
+2019-07-01 14:41:37,598 - root - INFO - 执行成功
+2019-07-01 14:41:37,598 - root - INFO - 执行成功
+2019-07-01 14:41:37,598 - root - INFO - 执行成功
+2019-07-01 14:41:37,598 - root - INFO - 执行成功
+2019-07-01 14:41:37,598 - root - INFO - 执行成功
+2019-07-01 14:41:37,598 - root - INFO - 执行成功
+2019-07-01 14:43:01,350 - root - INFO - 执行成功
+2019-07-01 14:43:01,350 - root - INFO - 执行成功
+2019-07-01 14:43:01,350 - root - INFO - 执行成功
+2019-07-01 14:43:01,350 - root - INFO - 执行成功
+2019-07-01 14:43:01,350 - root - INFO - 执行成功
+2019-07-01 14:43:01,350 - root - INFO - 执行成功
+2019-07-01 14:43:01,350 - root - INFO - 执行成功
+2019-07-01 14:43:01,350 - root - INFO - 执行成功
+2019-07-01 14:46:42,582 - root - INFO - 执行成功
+2019-07-01 14:46:42,582 - root - INFO - 执行成功
+2019-07-01 14:46:42,582 - root - INFO - 执行成功
+2019-07-01 14:46:42,582 - root - INFO - 执行成功
+2019-07-01 14:46:42,582 - root - INFO - 执行成功
+2019-07-01 14:46:42,582 - root - INFO - 执行成功
+2019-07-01 14:46:42,582 - root - INFO - 执行成功
+2019-07-01 14:46:42,582 - root - INFO - 执行成功
+2019-07-01 14:46:42,582 - root - INFO - 执行成功
+2019-07-01 14:57:52,598 - root - ERROR - HTTPConnectionPool(host='192.168.31.110', port=5000): Max retries exceeded with url: /icsend (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0E9FE410>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-07-01 14:58:47,320 - root - INFO - 服务器反馈提交成功1051记录
+2019-07-01 14:58:47,320 - root - INFO - 服务器反馈提交成功1051记录
+2019-07-01 15:01:08,619 - root - INFO - 服务器反馈提交成功1051记录
+2019-07-01 15:20:22,100 - root - ERROR - click() takes 1 positional argument but 2 were given
+2019-07-01 15:21:03,909 - root - INFO - 服务器反馈提交成功1054记录
+2019-07-01 15:32:13,620 - root - INFO - 服务器反馈提交成功1054记录
+2019-07-01 15:51:45,214 - root - INFO - 服务器反馈提交成功1054记录
+2019-07-01 16:17:00,205 - root - INFO - 服务器反馈提交成功1054记录
+2019-07-01 16:59:01,934 - root - INFO - 服务器反馈提交成功1057记录
+2019-07-01 17:03:19,062 - root - INFO - 服务器反馈提交成功1057记录
+2019-07-01 17:11:09,146 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:11:10,504 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:11:10,504 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:11:30,584 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:11:31,649 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:11:31,649 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:12:04,945 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:12:06,172 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:12:06,172 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:12:49,705 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:12:51,973 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:12:51,973 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:16:11,219 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:16:12,460 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:16:12,460 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:16:25,687 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:16:30,592 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:16:30,592 - root - ERROR - invalid literal for int() with base 10: 'ruidu.thsen.top'
+2019-07-01 17:17:58,907 - root - INFO - 服务器反馈提交成功1059记录

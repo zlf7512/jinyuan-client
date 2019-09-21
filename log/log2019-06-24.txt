@@ -1,0 +1,2 @@
+2019-06-24 16:32:32,473 - root - ERROR - ”Ôæ‰(2812, b"Could not find stored procedure 'zicsales'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2019-06-24 16:34:35,121 - root - ERROR - ”Ôæ‰Statement not executed or executed statement has no resultset

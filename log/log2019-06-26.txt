@@ -1,0 +1,53 @@
+2019-06-26 13:57:57,577 - root - INFO - 执行成功
+2019-06-26 14:05:12,700 - root - ERROR - excqurey() takes 2 positional arguments but 3 were given
+2019-06-26 14:08:18,119 - root - INFO - 执行成功
+2019-06-26 14:21:41,868 - root - ERROR - 'module' object is not callable
+2019-06-26 14:22:29,954 - root - ERROR - 'module' object is not callable
+2019-06-26 14:25:31,447 - root - ERROR - 'module' object is not callable
+2019-06-26 15:52:09,932 - root - ERROR - 'module' object is not callable
+2019-06-26 16:16:44,254 - root - ERROR - HTTPConnectionPool(host='192.168.31.5000', port=5000): Max retries exceeded with url: /icsend (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0425EB30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-06-26 16:18:12,174 - root - INFO - 执行成功
+2019-06-26 16:19:56,281 - root - ERROR - can only concatenate str (not "list") to str
+2019-06-26 16:23:05,373 - root - INFO - 执行成功
+2019-06-26 16:23:31,208 - root - INFO - 执行成功
+2019-06-26 16:23:31,208 - root - INFO - 执行成功
+2019-06-26 16:39:46,171 - root - INFO - 执行成功
+2019-06-26 16:40:16,632 - root - INFO - 执行成功
+2019-06-26 16:45:46,524 - root - INFO - 执行成功
+2019-06-26 16:45:46,524 - root - INFO - 执行成功
+2019-06-26 16:46:15,004 - root - INFO - 执行成功
+2019-06-26 16:46:15,004 - root - INFO - 执行成功
+2019-06-26 16:46:15,004 - root - INFO - 执行成功
+2019-06-26 16:48:06,066 - root - INFO - 执行成功
+2019-06-26 16:48:06,066 - root - INFO - 执行成功
+2019-06-26 16:48:06,066 - root - INFO - 执行成功
+2019-06-26 16:48:06,066 - root - INFO - 执行成功
+2019-06-26 16:53:46,213 - root - INFO - 执行成功
+2019-06-26 16:53:46,213 - root - INFO - 执行成功
+2019-06-26 16:53:46,213 - root - INFO - 执行成功
+2019-06-26 16:53:46,213 - root - INFO - 执行成功
+2019-06-26 16:53:46,213 - root - INFO - 执行成功
+2019-06-26 16:54:19,382 - root - INFO - 执行成功
+2019-06-26 16:54:19,382 - root - INFO - 执行成功
+2019-06-26 16:54:19,382 - root - INFO - 执行成功
+2019-06-26 16:54:19,382 - root - INFO - 执行成功
+2019-06-26 16:54:19,382 - root - INFO - 执行成功
+2019-06-26 16:54:19,382 - root - INFO - 执行成功
+2019-06-26 16:56:47,492 - root - INFO - 执行成功
+2019-06-26 16:56:47,492 - root - INFO - 执行成功
+2019-06-26 16:56:47,492 - root - INFO - 执行成功
+2019-06-26 16:56:47,492 - root - INFO - 执行成功
+2019-06-26 16:56:47,492 - root - INFO - 执行成功
+2019-06-26 16:56:47,492 - root - INFO - 执行成功
+2019-06-26 16:56:47,492 - root - INFO - 执行成功
+2019-06-26 16:57:50,494 - root - INFO - 执行成功
+2019-06-26 16:57:50,494 - root - INFO - 执行成功
+2019-06-26 16:57:50,494 - root - INFO - 执行成功
+2019-06-26 16:57:50,494 - root - INFO - 执行成功
+2019-06-26 16:57:50,494 - root - INFO - 执行成功
+2019-06-26 16:57:50,494 - root - INFO - 执行成功
+2019-06-26 16:57:50,494 - root - INFO - 执行成功
+2019-06-26 16:57:50,494 - root - INFO - 执行成功
+2019-06-26 17:40:37,600 - root - INFO - 执行成功
+2019-06-26 17:41:22,675 - root - ERROR - HTTPConnectionPool(host='192.168.31.110', port=5000): Max retries exceeded with url: /icsend (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0F3246F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-06-26 17:41:22,675 - root - ERROR - HTTPConnectionPool(host='192.168.31.110', port=5000): Max retries exceeded with url: /icsend (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0F3246F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))

@@ -1,0 +1,51 @@
+2019-07-06 10:51:28,879 - root - INFO - 服务器反馈提交成功275记录
+2019-07-06 10:52:10,881 - root - INFO - 服务器反馈提交成功275记录
+2019-07-06 10:52:10,881 - root - INFO - 服务器反馈提交成功275记录
+2019-07-06 10:52:44,921 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:52:44,921 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:52:44,921 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:53:13,848 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:53:13,848 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:53:13,848 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:53:13,848 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:53:46,532 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:53:46,532 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:53:46,532 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:53:46,532 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:53:46,532 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:54:18,975 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:54:18,975 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:54:18,975 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:54:18,975 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:54:18,975 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 10:54:18,975 - root - INFO - 服务器反馈提交成功276记录
+2019-07-06 15:33:47,527 - root - INFO - 无需提交没有新记录
+2019-07-06 15:34:27,496 - root - ERROR - 'utf-8' codec can't decode byte 0xc8 in position 138: invalid continuation byte
+2019-07-06 15:34:50,927 - root - ERROR - 'utf-8' codec can't decode byte 0xc8 in position 138: invalid continuation byte
+2019-07-06 15:34:50,927 - root - ERROR - 'utf-8' codec can't decode byte 0xc8 in position 138: invalid continuation byte
+2019-07-06 15:36:09,614 - root - ERROR - 语句(18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 15:36:09,615 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 15:36:09,615 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 15:36:29,697 - root - ERROR - 语句(18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 15:36:29,697 - root - ERROR - 语句(18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 15:36:29,697 - root - ERROR - 语句(18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 15:36:29,697 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 15:36:29,697 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 15:36:29,697 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 15:36:29,697 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:04,762 - root - ERROR - 语句(18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:04,765 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:04,765 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:25,182 - root - ERROR - 语句(18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:25,182 - root - ERROR - 语句(18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:25,182 - root - ERROR - 语句(18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:25,183 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:25,183 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:25,183 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:17:25,183 - root - ERROR - (18456, b'DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (ruidu.thsen.top:1221)\n')
+2019-07-06 16:46:35,995 - root - INFO - 无需提交没有新记录
+2019-07-06 16:47:13,034 - root - INFO - 服务器反馈提交成功296记录
+2019-07-06 17:11:17,428 - root - ERROR - File contains no section headers.
+file: 'db.cfg', line: 1
+'锘縖mysql_db_test]\n'
+2019-07-06 17:13:57,428 - root - INFO - 无需提交没有新记录
